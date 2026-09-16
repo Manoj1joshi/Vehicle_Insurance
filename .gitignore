@@ -4,6 +4,7 @@ vechile/
 venv/
 .venv/
 env/
+logs/
 
 # Python cache
 __pycache__/
