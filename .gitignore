@@ -3,7 +3,7 @@
 vechile/
 venv/
 .venv/
-env/
+.env/
 logs/
 
 # Python cache
