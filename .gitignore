@@ -5,7 +5,7 @@ venv/
 .venv/
 .env/
 logs/
-
+artifacts/
 # Python cache
 __pycache__/
 *.py[cod]
